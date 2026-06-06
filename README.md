@@ -1,1 +1,1 @@
-# rag-serving-system
+# simple-rag-serving
