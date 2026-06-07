@@ -7,7 +7,9 @@ authors = [
     { name = "Strath Lumsden" }
 ]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "pydantic>=2.0",
+]
 
 [project.scripts]
 simple-rag-serving = "simple_rag_serving:main"
