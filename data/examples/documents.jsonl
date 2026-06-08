@@ -1,0 +1,4 @@
+{"document_id": "rag-overview", "text": "Retrieval augmented generation answers questions by retrieving relevant context before generating a response.", "metadata": {"title": "RAG overview", "topic": "rag"}}
+{"document_id": "embeddings", "text": "Embeddings represent text as numeric vectors so related passages can be compared by similarity.", "metadata": {"title": "Embeddings", "topic": "retrieval"}}
+{"document_id": "prompt-context", "text": "A RAG prompt usually combines the user question with retrieved source text and clear answering instructions.", "metadata": {"title": "Prompt context", "topic": "prompting"}}
+{"document_id": "source-citations", "text": "Returning sources helps users inspect which documents influenced an answer.", "metadata": {"title": "Source citations", "topic": "evaluation"}}
